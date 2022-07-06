@@ -1,2 +1,2 @@
-# ideablog-scraper
-Web scraping en el blog de la web de iDEAUFRO.
+# buscalibre-scraper
+Web scraping del precio de libros en Buscalibre.
